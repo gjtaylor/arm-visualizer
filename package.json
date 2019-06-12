@@ -29,7 +29,7 @@
     "gulp-useref": "^3.0.3",
     "gulp-util": "^3.0.7",
     "jasmine": "^2.4.1",
-    "jspm": "0.17.0-beta.22",
+    "jspm": "0.17.0-beta.49",
     "karma": "^0.13.14",
     "karma-chrome-launcher": "^0.2.3",
     "karma-coverage": "^0.5.3",
