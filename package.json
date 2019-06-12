@@ -39,7 +39,7 @@
     "systemjs-builder": "0.15.23",
     "tslint": "^3.2.1",
     "typescript": "^1.7.5",
-    "typings": "^1.0.4",
+    "typings": "^2.1.1",
     "uglify-save-license": "^0.4.1"
   },
   "scripts": {
